@@ -20,4 +20,3 @@ project/plugins/project/
 # Project-specific
 .classpath
 .project
-build.sbt
